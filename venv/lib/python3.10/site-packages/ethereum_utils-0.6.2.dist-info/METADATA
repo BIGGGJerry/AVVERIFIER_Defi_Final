@@ -1,0 +1,26 @@
+Metadata-Version: 2.0
+Name: ethereum-utils
+Version: 0.6.2
+Summary: Common utility functions for ethereum codebases.
+Home-page: https://github.com/ethereum/eth-utils
+Author: Piper Merriam
+Author-email: pipermerriam@gmail.com
+License: MIT
+Keywords: ethereum
+Platform: UNKNOWN
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: English
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+
+Ethereum Utils
+==============
+
+This library has been renamed to ``eth-utils``. This package will no
+longer recieve updates. Please update your dependencies accordingly.
+
+

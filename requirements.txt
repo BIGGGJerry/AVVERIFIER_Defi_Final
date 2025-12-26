@@ -1,0 +1,5 @@
+mythril==0.24.8
+z3-solver>=4.8.0
+tqdm>=4.60.0
+requests>=2.25.0
+py-solc-x>=1.1.1
