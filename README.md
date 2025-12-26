@@ -177,6 +177,21 @@ else:
 
 ### 环境配置
 
+#### 0) 系统要求
+
+- OS：Linux / macOS 均可（本仓库主要在 Linux 下验证）
+- Python：建议 **Python 3.10+**
+- 网络：建议可访问公网（用于 pip 安装依赖、solcx 下载 solc）
+
+#### 1) 一键脚本（推荐）
+
+仓库提供了 `setup_environment.sh`，会自动创建虚拟环境并安装依赖：
+
+```bash
+./setup_environment.sh
+source venv/bin/activate
+```
+
 ```bash
 cd avverifier
 python3 -m venv venv
